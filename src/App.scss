@@ -1,0 +1,21 @@
+//Assets
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500');
+//Helpers
+@import 'styles/helpers/_variables';
+//Components
+@import 'styles/components/Header';
+@import 'styles/components/Navigation';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway","Helvetica Neue",sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: $color-primary;
+}
+
+*{
+  box-sizing: content-box;
+}

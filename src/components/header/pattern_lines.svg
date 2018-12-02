@@ -1,0 +1,69 @@
+
+<svg width="1280px" height="824px" viewBox="0 0 1280 824" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="99.2987132%" x2="91.7681885%" y2="11.8377757%" id="linearGradient-1">
+            <stop stop-color="#F02FC2" offset="0%"></stop>
+            <stop stop-color="#1D2671" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.565590019">
+        <g id="1.Plane" transform="translate(0.000000, -8.000000)" fill="url(#linearGradient-1)">
+            <g id="Background-lining" transform="translate(0.000000, 8.000000)">
+                <g id="Stacked-Group">
+                    <rect id="Rectangle-2" x="0" y="0" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy" x="0" y="20" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-3" x="0" y="40" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-2" x="0" y="120" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-6" x="0" y="60" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-5" x="0" y="80" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-4" x="0" y="100" width="1280" height="4"></rect>
+                </g>
+                <g id="Stacked-Group-Copy" transform="translate(0.000000, 140.000000)">
+                    <rect id="Rectangle-2-Copy-7" x="0" y="0" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-8" x="0" y="20" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-9" x="0" y="40" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-10" x="0" y="120" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-11" x="0" y="60" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-12" x="0" y="80" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-13" x="0" y="100" width="1280" height="4"></rect>
+                </g>
+                <g id="Stacked-Group-Copy-3" transform="translate(0.000000, 280.000000)">
+                    <rect id="Rectangle-2-Copy-21" x="0" y="0" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-22" x="0" y="20" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-23" x="0" y="40" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-24" x="0" y="120" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-25" x="0" y="60" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-26" x="0" y="80" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-27" x="0" y="100" width="1280" height="4"></rect>
+                </g>
+                <g id="Stacked-Group-Copy-2" transform="translate(0.000000, 420.000000)">
+                    <rect id="Rectangle-2-Copy-14" x="0" y="0" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-15" x="0" y="20" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-16" x="0" y="40" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-17" x="0" y="120" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-18" x="0" y="60" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-19" x="0" y="80" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-20" x="0" y="100" width="1280" height="4"></rect>
+                </g>
+                <g id="Stacked-Group-Copy-4" transform="translate(0.000000, 560.000000)">
+                    <rect id="Rectangle-2-Copy-28" x="0" y="0" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-29" x="0" y="20" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-30" x="0" y="40" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-31" x="0" y="120" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-32" x="0" y="60" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-33" x="0" y="80" width="1280" height="4"></rect>
+                    <rect id="Rectangle-2-Copy-34" x="0" y="100" width="1280" height="4"></rect>
+                </g>
+                <g id="Stacked-Group-Copy-5" transform="translate(0.000000, 700.000000)">
+                    <polygon id="Rectangle-2-Copy-35" points="0 0 1280 0 1280 4 0 4"></polygon>
+                    <polygon id="Rectangle-2-Copy-36" points="0 20 1280 20 1280 24 0 24"></polygon>
+                    <polygon id="Rectangle-2-Copy-37" points="0 40 1280 40 1280 44 0 44"></polygon>
+                    <polygon id="Rectangle-2-Copy-38" points="0 120 1280 120 1280 124 0 124"></polygon>
+                    <polygon id="Rectangle-2-Copy-39" points="0 60 1280 60 1280 64 0 64"></polygon>
+                    <polygon id="Rectangle-2-Copy-40" points="0 80 1280 80 1280 84 0 84"></polygon>
+                    <polygon id="Rectangle-2-Copy-41" points="0 100 1280 100 1280 104 0 104"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
