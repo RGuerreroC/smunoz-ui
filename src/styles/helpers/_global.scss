@@ -8,6 +8,23 @@ body {
   color: $color-primary;
 }
 
-*{
+* {
   box-sizing: content-box;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: #000;
+    letter-spacing: .45px;
+    font-size: 32px;
+    font-weight: 500;
+    margin: 0;
+}
+
+p {
+    font-size: 22px;
+    line-height: 32px;
+    font-family: $font-title;
+    font-weight: 400;
+    color: $color-text;
 }
